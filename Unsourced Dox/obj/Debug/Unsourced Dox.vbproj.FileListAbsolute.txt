@@ -1,0 +1,17 @@
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\bin\Debug\Unsourced Dox.exe.config
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\bin\Debug\Unsourced Dox.exe
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\bin\Debug\Unsourced Dox.pdb
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\bin\Debug\Unsourced Dox.xml
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.vbprojAssemblyReference.cache
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\MainWindow.g.vb
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Application.g.vb
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox_MarkupCompile.cache
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox_MarkupCompile.lref
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\MainWindow.baml
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.g.resources
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced_Dox.Resources.resources
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.vbproj.GenerateResource.cache
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.vbproj.CoreCompileInputs.cache
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.exe
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.xml
+C:\Users\HellFire\source\repos\Unsourced Dox\Unsourced Dox\obj\Debug\Unsourced Dox.pdb
